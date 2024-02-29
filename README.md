@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently out of work in the area
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, GIT, GITHUB, TERMINAL, Node.JS**
 
 - ⚡ Fun fact **Oneye 😜**
 
